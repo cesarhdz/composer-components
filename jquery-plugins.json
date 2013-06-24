@@ -1,0 +1,37 @@
+{
+    "packages" : {
+
+        
+        "jacksbox/fractionslider" : {
+
+            "0.9.8": {
+                "name": "jacksbox/fractionslider",
+                "type" : "component",
+                "version": "0.9.8",
+                "dist": {
+                    "url": "https://github.com/jacksbox/jquery.fractionslider/archive/0.9.8.zip",
+                    "type": "zip"
+                },
+                "require": { "robloach/component-installer": "*" },
+
+                "extra" : {
+                    "component" : {
+                        "scripts" : [
+                            "jquery.fractionslider.min.js"
+                        ],
+                        "styles" : [
+                            "css/fractionslider.css"
+                        ],
+                        "files" : [
+                            "css/images/fs.pager.png",
+                            "css/images/fs.prevnext.png",
+                            "css/images/fs.spinner.png"
+                        ]
+                    }
+                }
+            }
+        }
+
+
+    }
+}
