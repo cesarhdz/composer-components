@@ -19,6 +19,28 @@
                     }
                 }
             }
-		}
+		},
+
+	    "scottjehl/respond.js" : {
+	    	"1.1.0": {
+                "name": "slexaxton/yepnope.js",
+                "type" : "component",
+                "version": "1.5.4",
+                "dist": {
+                    "url": "https://github.com/scottjehl/Respond/archive/c82ab674098de89ca5a144ea236a5697011b807c.zip",
+                    "type": "zip"
+                },
+                "require": { "robloach/component-installer": "*" },
+ 
+                "extra" : {
+                    "component" : {
+                        "scripts" : [
+                            "respond.min.js"
+                        ]
+                    }
+                }
+            }
+	        
+	    }
 	}
 }
