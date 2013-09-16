@@ -23,7 +23,7 @@
 
 	    "scottjehl/respond.js" : {
 	    	"1.1.0": {
-                "name": "slexaxton/yepnope.js",
+                "name": "scottjehl/respond.js",
                 "type" : "component",
                 "version": "1.5.4",
                 "dist": {
