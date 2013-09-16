@@ -1,0 +1,25 @@
+{
+	"packages" : {
+		"slexaxton/yepnope.js" :  {
+            "1.5.4": {
+                "name": "slexaxton/yepnope.js",
+                "type" : "component",
+                "version": "1.5.4",
+                "dist": {
+                    "url": "https://github.com/SlexAxton/yepnope.js/archive/aa8b95212e4b98ce9900fc003ef6d58b9e8c1c61.zip",
+                    "type": "zip"
+                },
+                "require": { "robloach/component-installer": "*" },
+ 
+                "extra" : {
+                    "component" : {
+                        "scripts" : [
+                            "yepnope.1.5.4-min.js",
+                            "yepnope.js"
+                        ]
+                    }
+                }
+            }
+		}
+	}
+}
