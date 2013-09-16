@@ -32,14 +32,13 @@
             }
         },
 
-        "slexaxton/yepnope.js" :  {
-
-            "1.5.4": {
-                "name": "slexaxton/yepnope.js",
+        "viljamis/responsiveslides.js": {
+            "1.3.1": {
+                "name": "viljamis/responsiveslides.js",
                 "type" : "component",
-                "version": "1.5.4",
+                "version": "1.3.1",
                 "dist": {
-                    "url": "https://github.com/SlexAxton/yepnope.js/archive/aa8b95212e4b98ce9900fc003ef6d58b9e8c1c61.zip",
+                    "url": "https://github.com/viljamis/ResponsiveSlides.js/archive/1cc5418420b064bfd96787266b3f8d599bc6eb0f.zip",
                     "type": "zip"
                 },
                 "require": { "robloach/component-installer": "*" },
@@ -47,13 +46,17 @@
                 "extra" : {
                     "component" : {
                         "scripts" : [
-                            "yepnope.1.5.4-min.js",
-                            "yepnope.js"
+                            "responsiveslides.min.js",
+                            "responsiveslides.js"
+                        ],
+                        "styles" : [
+                            "responsiveslides.css"
                         ]
                     }
                 }
             }
 
         }
+
     }
 }
