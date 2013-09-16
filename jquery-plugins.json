@@ -46,7 +46,7 @@
                 "extra" : {
                     "component" : {
                         "scripts" : [
-                            "responsiveslides.min.js",
+                            "responsiveslides.min.js"
                         ],
                         "styles" : [
                             "responsiveslides.css"
