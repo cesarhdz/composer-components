@@ -47,7 +47,6 @@
                     "component" : {
                         "scripts" : [
                             "responsiveslides.min.js",
-                            "responsiveslides.js"
                         ],
                         "styles" : [
                             "responsiveslides.css"

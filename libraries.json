@@ -14,8 +14,7 @@
                 "extra" : {
                     "component" : {
                         "scripts" : [
-                            "yepnope.1.5.4-min.js",
-                            "yepnope.js"
+                            "yepnope.1.5.4-min.js"
                         ]
                     }
                 }
